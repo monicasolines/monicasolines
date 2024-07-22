@@ -27,6 +27,8 @@ linea:
 
 imagen:
 ![image](https://github.com/user-attachments/assets/a793f23b-7e13-40a4-9ed7-bd594d0e490a)
+![image](https://github.com/user-attachments/assets/e11661ca-9b01-4c2d-9a38-2a52692956db)
+
 
 
 *italic*
