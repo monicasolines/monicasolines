@@ -1,6 +1,7 @@
 ## Hi there, I'm Monica Solines👋  
 Welcome to my Github Profile!
 
+</br>
 
 ### :woman_technologist: About me
 - 🇪🇨 ➡️ ![image](https://github.com/user-attachments/assets/8fcd659f-e348-488a-a0de-0f41d2688362)
