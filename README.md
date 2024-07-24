@@ -1,16 +1,20 @@
 ## Hi there, I'm Monica Solines👋  
 Welcome to my Github Profile!
 
+
 ### :woman_technologist: About me
-I am from Ecuador but currently living in Barcelona.
+- 🇪🇨 ➡️ ![image](https://github.com/user-attachments/assets/8fcd659f-e348-488a-a0de-0f41d2688362)
+  I am from Ecuador but currently living in Barcelona.
 
-I am very passionate about programming, books and travelling.
+- 😎  I am very passionate about programming, books and travelling.
 
-I am a Full Stack Developer student at 4Geeks.
+- 💻  I am a Full Stack Developer student at 4Geeks.
+  
+- 📫  How to reach me **monicasolinesramos@gmail.com**
 
 </br>
 
-### :hammer_and_wrench: Languages:
+### :hammer_and_wrench: Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -24,7 +28,10 @@ I am a Full Stack Developer student at 4Geeks.
 <p align="left">
 <a href="https://www.linkedin.com/in/monica-solines-a89647226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Monica Solines" height="30" width="40" /></a>
 <a href="https://www.instagram.com/monisolines/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monisolines" height="30" width="40" /></a>
+<a href="monicasolinesramos@gmail.com"> <img/> </a> 
 </p>
+
+
 
 <!--
 > attention
