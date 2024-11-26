@@ -1,5 +1,11 @@
 ## Hi there, I'm Monica Solines👋  
 Welcome to my Github Profile!
+</br>
+I am a Passionate Full Stack Developer with a solid foundation in both frontend and backend technologies, including JavaScript, React, Bootstrap, Python, Flask, and SQL. I thrive on building scalable, efficient, and user-friendly applications that deliver real-world impact.
+
+With a background in education, I bring strong organizational skills, adaptability, and a collaborative mindset to every project. My passion for continuous learning and problem-solving drives me to stay updated on the latest trends in software development and proactively explore new technologies to refine my expertise.
+
+I am enthusiastic about tackling challenging projects, learning from others, and contributing to innovative teams. Always open to new opportunities to grow, create, and make a difference.
 
 </br>
 
@@ -27,7 +33,7 @@ Welcome to my Github Profile!
 
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/monica-solines-a89647226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Monica Solines" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/monica-solines" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Monica Solines" height="30" width="40" /></a>
 <a href="https://www.instagram.com/monisolines/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monisolines" height="30" width="40" /></a>
 <a href="monicasolinesramos@gmail.com"> <img/> </a> 
 </p>
